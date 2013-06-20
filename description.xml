@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<version value="1.0"/>
+	<identifier value="fr.gouv.developpement-durable.geo-ide.catalogue.mdProd"/>
+	<platform value="all"/>
+	<dependencies>
+		<OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0"/>
+	</dependencies>
+	<update-information/>
+	<registration/>
+	<publisher>
+		<name xlink:href="mailto:Pne-Infrastructure-geomatique@developpement-durable.gouv.fr" lang="fr">MEDDE - Pôle national d'expertise pour l'information géographique</name>
+	</publisher>
+	<release-notes/>
+	<display-name>
+		<name lang="fr">Extension permettant la saisie simplifiée de métadonnées au format ISO 19139</name>
+	</display-name>
+	<icon/>
+	<extension-description>
+		<src xlink:href="description/description_fr.txt" lang="fr"/>
+	</extension-description>
+</description>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest:manifest xmlns:manifest="http://openoffice.org/2001/manifest">
+        <manifest:file-entry manifest:media-type="application/vnd.sun.star.configuration-data" manifest:full-path="Types.xcu"/>
+        <manifest:file-entry manifest:media-type="application/vnd.sun.star.configuration-data" manifest:full-path="Filters.xcu"/>
+        <manifest:file-entry manifest:media-type="application/vnd.sun.star.configuration-data" manifest:full-path ="Paths.xcu"/>
+        <manifest:file-entry manifest:media-type="application/vnd.sun.star.package-bundle-description" manifest:full-path="description/description_fr.txt" />
+</manifest:manifest>
