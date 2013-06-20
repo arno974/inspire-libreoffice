@@ -1,0 +1,3 @@
+Outil de saisie de métadonnées simplifiées et d'export au format ISO 19139.
+Cette extension permet la saisie de métadonnées au moyen d'un formulaire accessible depuis le menu "Fichier > Nouveau > Modèles et documents".
+La fonction d'export est accessible depuis le menu "Fichier > Exporter" (choisir "métadonnées producteur ISO 19139")
