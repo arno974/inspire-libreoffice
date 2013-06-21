@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Types" oor:package="org.openoffice.TypeDetection">
+	<node oor:name="Types">
+		<node oor:name="mdProd" oor:op="replace">
+			<prop oor:name="ClipboardFormat"/>
+			<prop oor:name="DetectService"/>
+			<prop oor:name="DocumentIconID">
+				<value>0</value>
+			</prop>
+			<prop oor:name="Extensions">
+				<value>xml</value>
+			</prop>
+			<prop oor:name="MediaType"/>
+			<prop oor:name="Preferred">
+				<value>false</value>
+			</prop>
+			<prop oor:name="PreferredFilter"/>
+			<prop oor:name="UIName">
+				<value xml:lang="fr">métadonnées producteur ISO19139</value>
+			</prop>
+			<prop oor:name="UIOrder">
+				<value>0</value>
+			</prop>
+			<prop oor:name="URLPattern"/>
+		</node>
+	</node>
+</oor:component-data>
